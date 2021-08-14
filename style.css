@@ -1,0 +1,16 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display:flow-root;
+  border: 10px solid rgb(23, 9, 146);
+  border-radius: 5%;
+  border-style: dashed;
+  margin-right:auto;
+  margin-left:auto;
+  margin-top: 20px;
+  background-attachment:scroll;
+  backface-visibility:initial;
+}
+
